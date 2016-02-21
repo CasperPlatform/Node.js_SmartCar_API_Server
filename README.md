@@ -1,5 +1,8 @@
 # Node.js_SmartCar_API_Server
-SmartCar Rest API 
+- SmartCar Rest API
+- LevelDB
+- SerialPort
+
 # Prerequisites
 - Node.js and npm
 
