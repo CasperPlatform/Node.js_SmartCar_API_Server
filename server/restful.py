@@ -46,4 +46,4 @@ api.add_resource(Login, '/login')
 api.add_resource(CreateAccount, '/create-account')
 
 if __name__ == '__main__':
-    app.run()
+    app.run("0.0.0.0", port=int("10000"), debug=True)
