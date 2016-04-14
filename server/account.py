@@ -1,4 +1,3 @@
-from validate_email import validate_email
 import database
 import string
 import hashlib
